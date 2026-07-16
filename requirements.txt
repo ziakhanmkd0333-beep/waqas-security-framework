@@ -1,0 +1,4 @@
+# WAQAS Multi-Platform Security Framework v4.0 - Python Dependencies
+# Author: WAQAS Security Researcher
+
+colorama>=0.4.4
