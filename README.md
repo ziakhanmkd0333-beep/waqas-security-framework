@@ -3,15 +3,14 @@ Author: WAQAS Security Researcher
 Version: 4.0 (Ultra Premium)
 Purpose: Educational & Authorized Security Research Only
 
-
-        MULTI-PLATFORM SECURITY FRAMEWORK v4.0       
-                   (Ultra Premium)                   
- [*] Author  : WAQAS Security Researcher
- [*] Version : 4.0 (Ultra Premium)
- [*] Purpose : Educational & Authorized Security Research Only
-
+        MULTI-PLATFORM SECURITY FRAMEWORK v4.0                 
+        (Ultra Premium)                
+        [*] Author  : WAQAS Security Researcher
+        [*] Version : 4.0 (Ultra Premium) 
+        [*] Purpose : Educational & Authorized Security Research Only
 
 ⚠️ CRITICAL LEGAL DISCLAIMER
+
 This software is provided STRICTLY for EDUCATIONAL and RESEARCH purposes.
 
 By using this tool you acknowledge and agree that:
@@ -26,6 +25,8 @@ If you do not agree with these terms, DO NOT USE this tool.
 
 📖 Overview
 The WAQAS Multi-Platform Security Framework (v4.0 Ultra Premium) is a highly advanced, menu-driven Python tool designed for authorized security researchers and penetration testers. It integrates Metasploit Framework and Android/Windows build tools into a single, automated, easy-to-use workflow.
+
+
 
 ✨ What's New in v4.0 (Ultra Premium)
 ✅ Windows Payload Generation: Create standalone stageless Windows EXE payloads.
@@ -44,7 +45,15 @@ The WAQAS Multi-Platform Security Framework (v4.0 Ultra Premium) is a highly adv
 📂 Project Structure
 Ensure you have these three files in the same directory before starting:
 
-waqas_framework_project/│├── waqas_android_framework.py  # The main Python script (v4.0 Ultra Premium)├── install.sh                  # 1-Click Automated Installer & Launcher└── requirements.txt            # Python dependencies (colorama)
+text
+
+waqas_framework_project/
+│
+├── waqas_android_framework.py  # The main Python script (v4.0 Ultra Premium)
+├── install.sh                  # 1-Click Automated Installer & Launcher
+└── requirements.txt            # Python dependencies (colorama)
+
+
 🛠️ System Requirements
 OS: Kali Linux / Parrot OS / Any Debian-based Linux (Recommended)
 Privileges: Root (sudo) access is required.
@@ -54,11 +63,13 @@ Python Packages: colorama
 🚀 Installation Procedure (1-Click)
 The framework is designed to be as easy to use as possible. A single command will install all dependencies, fix broken packages, update apktool, and launch the tool.
 
+
 Open your terminal in the project directory.
 Run the automated installer script:
 bash
-
+"
 sudo bash install.sh
+                        "
 What happens next:
 
 The script silently fixes any broken apt packages.
@@ -72,7 +83,9 @@ Note: If you ever need to run the framework manually after installation, simply 
 bash
 
 sudo python3 waqas_android_framework.py
+
 ▶️ Execution & First Run Setup
+
 When the framework launches:
 
 The Legal Disclaimer will appear. You must type yes to accept and proceed.
@@ -121,6 +134,7 @@ If you are not already in the Metasploit console, select Option 7 to list active
 Select Option 8 to interact with a session.
 Enter the Session ID (e.g., 1).
 You will drop into a meterpreter > prompt.
+
 📂 Output Files Description
 File
 Description
@@ -155,3 +169,4 @@ This tool is released for educational and research purposes only.
 No warranty is provided. Use at your own risk and responsibility.
 
 Final Reminder: Unauthorized use of this tool against systems you do not own or lack permission to test is ILLEGAL. The author disclaims all liability for misuse. Act ethically. Act legally. Act responsibly.
+```
