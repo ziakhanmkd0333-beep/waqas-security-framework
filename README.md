@@ -6,11 +6,10 @@ Purpose: Educational & Authorized Security Research Only
 
         MULTI-PLATFORM SECURITY FRAMEWORK v4.0       
                    (Ultra Premium)                   
-======================================================================
  [*] Author  : WAQAS Security Researcher
  [*] Version : 4.0 (Ultra Premium)
  [*] Purpose : Educational & Authorized Security Research Only
-======================================================================
+
 
 ⚠️ CRITICAL LEGAL DISCLAIMER
 This software is provided STRICTLY for EDUCATIONAL and RESEARCH purposes.
